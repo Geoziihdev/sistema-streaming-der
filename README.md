@@ -25,6 +25,6 @@
 
 ---
 
-![Captura de tela 2024-12-14 161005](https://github.com/user-attachments/assets/04a76de4-e441-4ad6-8c24-5cae6e4c7771)
+
 
 
